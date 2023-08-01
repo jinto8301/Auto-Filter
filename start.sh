@@ -1,5 +1,5 @@
 rm -rf boted;
-git clone https://github.com/jinto8301/Auto-Filte /boted;
+git clone https://github.com/jinto8301/Auto-Filter /boted;
 cd boted;
 pip3 install -U -r requirements.txt;
 echo "Bot Started....";
